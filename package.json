@@ -1,0 +1,17 @@
+{
+  "name": "rollins",
+  "version": "0.0.0",
+  "author": "Kriss Watt <kriss.watt@gmail.com>",
+  "devDependencies": {
+    "lodash.compact": "^3.0.1",
+    "mithril": "^0.2.5",
+    "modular-css": "^0.26.0",
+    "purecss": "^0.6.0",
+    "rollup": "^0.34.7",
+    "rollup-plugin-buble": "^0.12.1",
+    "rollup-plugin-commonjs": "^3.3.1",
+    "rollup-plugin-node-resolve": "^2.0.0"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}
